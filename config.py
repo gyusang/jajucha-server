@@ -1,6 +1,6 @@
 class config:
     quality = 95
-    fix_camera_setting = True
+    fix_camera_setting = False
     
     XSHUT_FRONT = 16
     XSHUT_REAR = 20
