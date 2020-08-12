@@ -83,7 +83,7 @@ class Server:
                     os.system("sudo halt")
                     break
             else:
-                sock.send_string('INVALID')
+                self.sock.send_string('INVALID')
                 print("Invalid Command")
 
 try:
