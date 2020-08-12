@@ -1,3 +1,6 @@
+# Copyright 2020 Sanggyu Lee. All rights reserved.
+# sanggyu.developer@gmail.com
+
 import pigpio
 from time import sleep
 import threading

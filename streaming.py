@@ -1,3 +1,6 @@
+# Copyright 2020 Sanggyu Lee. All rights reserved.
+# sanggyu.developer@gmail.com
+
 import time
 import zmq
 from imutils.video import VideoStream

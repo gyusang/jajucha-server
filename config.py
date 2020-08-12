@@ -1,3 +1,6 @@
+# Copyright 2020 Sanggyu Lee. All rights reserved.
+# sanggyu.developer@gmail.com
+
 class config:
     quality = 95
     fix_camera_setting = False
